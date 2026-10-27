@@ -1,0 +1,4 @@
+interface:
+  display_name: "Neural Knowledge Graph"
+  short_description: "Build interactive force-directed neural knowledge graphs"
+  default_prompt: "Build an interactive force-directed neural knowledge graph with multi-tier dendrite topology, floating glass controls, group coloring, and micro-arrows."
